@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div>
       <div className='bg-black opacity-90 w-full h-full flex justify-center'>
-        <Body title={'List Of Movie Items received from API call '} data={data} />
+        <Body title={'List Of Movie Items received from API call  '} data={data} />
       </div>
     </div>
   );
